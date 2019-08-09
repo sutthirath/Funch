@@ -1,4 +1,4 @@
-const Post = reqiure("./models/post");
+const Post = require("./models/post.model");
 
 const resolvers = {
   Query: {
